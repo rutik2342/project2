@@ -1,4 +1,4 @@
 # New project 
 
 This project was created from local system.
-Created by rutik patil.
+Created by Rutik Patil.
